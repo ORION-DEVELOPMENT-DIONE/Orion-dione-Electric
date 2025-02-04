@@ -1,6 +1,6 @@
-# AI Project
+# DIONE Protocol ELECTRIC Project 
 
-This repository contains a structured AI project designed for development, training, and deployment of machine learning models. The folder structure follows best practices to ensure modularity, scalability, and ease of deployment.
+This repository contains the code designed for development, training, and deployment of machine learning models. The folder structure follows best practices to ensure modularity, scalability, and ease of deployment.
 
 ## Project Structure
 
